@@ -1,0 +1,17 @@
+{
+    "name": "livre-v2",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "dependencies": {
+      "epubjs": "^0.3.93"
+    },
+    "devDependencies": {
+      "vite": "^5.4.0"
+    }
+  }
